@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="70" viewBox="0 0 180 70">
+  <g id="Group_79" data-name="Group 79" transform="translate(-538 -5739)">
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="180" height="70" rx="6" transform="translate(538 5739)" fill="#008bd2"/>
+    <g id="Group_78" data-name="Group 78" transform="translate(-256 4816.035)">
+      <g id="apple_twotone" data-name="apple/twotone" transform="translate(914 937.965)">
+        <g id="vuesax_twotone_apple" data-name="vuesax/twotone/apple">
+          <g id="apple">
+            <path id="BG_19" data-name="BG 19" d="M0,0H40V40H0Z" fill="none" opacity="0.58"/>
+            <path id="Vector" d="M23.613,19.27a22.211,22.211,0,0,0,1.923-3.758c-5.063-2-5.885-9.5-.871-12.368A7.46,7.46,0,0,0,18.961,0a8.427,8.427,0,0,0-3.37.752,5.961,5.961,0,0,1-2.3.581A7.524,7.524,0,0,1,10.708.718,8.712,8.712,0,0,0,7.585,0,7.744,7.744,0,0,0,1.337,3.912C-.816,7.4-.454,13.94,3.047,19.526c1.249,2,2.926,4.237,5.113,4.254a4.518,4.518,0,0,0,2.17-.581,6.376,6.376,0,0,1,2.976-.735,5.868,5.868,0,0,1,2.959.735,4.511,4.511,0,0,0,2.121.581C20.588,23.762,22.364,21.268,23.613,19.27Z" transform="translate(7.22 12.804)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Vector-2" data-name="Vector" d="M6.34,0a6.871,6.871,0,0,1-1.5,5.039A6.112,6.112,0,0,1,.071,7.465a6.352,6.352,0,0,1,1.537-4.92A7.425,7.425,0,0,1,6.34,0Z" transform="translate(20.403 3.536)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+            <path id="Vector-3" data-name="Vector" d="M0,0H40V40H0Z" fill="none" opacity="0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="حمل_التطبيق_على" data-name="حمل التطبيق على" transform="translate(603 5766)" fill="#fff" font-size="12" font-family="LamaSans-Regular, Lama Sans"><tspan x="-44.568" y="0">حمل التطبيق على</tspan></text>
+    <text id="App_Store" data-name="App Store" transform="translate(603 5790)" fill="#fff" font-size="16" font-family="LamaSans-Bold, Lama Sans" font-weight="700"><tspan x="-38.944" y="0">App Store</tspan></text>
+  </g>
+</svg>

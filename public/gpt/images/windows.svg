@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_12" data-name="Group 12" transform="translate(-1084 -1004)">
+    <g id="windows_twotone" data-name="windows/twotone" transform="translate(1084 1004)">
+      <g id="vuesax_twotone_windows" data-name="vuesax/twotone/windows">
+        <g id="windows">
+          <path id="BG_125" data-name="BG 125" d="M0,0H50V50H0Z" fill="none" opacity="0.58"/>
+          <path id="Vector" d="M21.067,0,0,4.213V18.96H21.067Z" transform="translate(24.72 4.213)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M21.067,18.96,0,14.747V0H21.067Z" transform="translate(24.72 26.827)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Vector-3" data-name="Vector" d="M16.853,0,0,3.581V14.115H16.853Z" transform="translate(4.213 8.919)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Vector-4" data-name="Vector" d="M16.853,14.115,0,10.533V0H16.853Z" transform="translate(4.213 26.966)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-5" data-name="Vector" d="M0,0H50V50H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

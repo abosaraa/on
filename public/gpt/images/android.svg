@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_11" data-name="Group 11" transform="translate(-732 -1003.56)">
+    <g id="android_twotone" data-name="android/twotone" transform="translate(732 1003.56)">
+      <g id="vuesax_twotone_android" data-name="vuesax/twotone/android">
+        <g id="android">
+          <path id="BG_128" data-name="BG 128" d="M0,0H50V50H0Z" fill="none" opacity="0.58"/>
+          <path id="Vector" d="M4.13,0V6.2A2.065,2.065,0,0,1,0,6.2V0Z" transform="translate(18.765 37.61)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Vector-2" data-name="Vector" d="M4.13,0V6.2A2.065,2.065,0,0,1,0,6.2V0Z" transform="translate(27.105 37.61)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Vector-3" data-name="Vector" d="M20.65,4.13V14.455a4.142,4.142,0,0,1-4.13,4.13H4.13A4.142,4.142,0,0,1,0,14.455V4.13A4.142,4.142,0,0,1,4.13,0H16.52A4.142,4.142,0,0,1,20.65,4.13Z" transform="translate(14.675 18.849)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Vector-4" data-name="Vector" d="M4.13,2.065v8.26a2.065,2.065,0,1,1-4.13,0V2.065a2.065,2.065,0,0,1,4.13,0Z" transform="translate(6.195 20.894)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-5" data-name="Vector" d="M4.13,2.065v8.26a2.065,2.065,0,1,1-4.13,0V2.065a2.065,2.065,0,0,1,4.13,0Z" transform="translate(39.675 20.894)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-6" data-name="Vector" d="M4.13,0H0" transform="translate(22.935 37.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Vector-7" data-name="Vector" d="M3.3,11.564h9.912a3.314,3.314,0,0,0,3.3-3.3A8.26,8.26,0,0,0,0,8.26,3.314,3.314,0,0,0,3.3,11.564Z" transform="translate(16.74 2.891)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-8" data-name="Vector" d="M0,0H50V50H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

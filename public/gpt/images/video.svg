@@ -1,0 +1,9 @@
+<svg id="play-circle_twotone" data-name="play-circle/twotone" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_twotone_play-circle" data-name="vuesax/twotone/play-circle">
+    <g id="play-circle">
+      <path id="Vector" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10Z" transform="translate(1.97 2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,4V2.334C0,.254,1.47-.6,3.27.444l1.45.84,1.45.84c1.8,1.04,1.8,2.74,0,3.78l-1.45.84-1.45.84C1.47,8.624,0,7.774,0,5.694Z" transform="translate(8.74 8.226)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

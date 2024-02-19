@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Group_72" data-name="Group 72" transform="translate(-987 -5054)">
+    <g id="sms-tracking_bulk" data-name="sms-tracking/bulk" transform="translate(987 5054)">
+      <g id="vuesax_bulk_sms-tracking" data-name="vuesax/bulk/sms-tracking">
+        <g id="sms-tracking">
+          <path id="Vector" d="M0,0H35V35H0Z" fill="none" opacity="0"/>
+          <path id="Vector-2" data-name="Vector" d="M7.307,0a7.307,7.307,0,1,0,7.307,7.307A7.3,7.3,0,0,0,7.307,0ZM4.326,4.326H7.307a.994.994,0,0,1,0,1.988H4.326a.994.994,0,0,1,0-1.988Zm5.963,5.963H4.311a.994.994,0,1,1,0-1.988h5.977a.994.994,0,0,1,0,1.988Z" transform="translate(1.461 18.924)" fill="#008bd2"/>
+          <path id="Vector-3" data-name="Vector" d="M21.866,0H7.289C2.915,0,0,2.192,0,7.307V11.9a1.459,1.459,0,0,0,2.07,1.315,9.466,9.466,0,0,1,5.335-.658,9.543,9.543,0,0,1,7.711,7.453,9.681,9.681,0,0,1,.1,3.23,1.45,1.45,0,0,0,1.443,1.622h5.2c4.373,0,7.289-2.192,7.289-7.307V7.322C29.154,2.192,26.239,0,21.866,0Z" transform="translate(2.923 4.384)" fill="#008bd2" opacity="0.4"/>
+          <g id="Group" transform="translate(9.093 10.559)">
+            <path id="Vector-4" data-name="Vector" d="M8.407,6.76a5.433,5.433,0,0,1-3.42-1.155L.413,1.952A1.092,1.092,0,0,1,1.772.242L6.347,3.9a3.487,3.487,0,0,0,4.107,0L15.028.242a1.079,1.079,0,0,1,1.535.175,1.079,1.079,0,0,1-.175,1.535L11.812,5.606A5.363,5.363,0,0,1,8.407,6.76Z" transform="translate(0 0)" fill="#008bd2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
